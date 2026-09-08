@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Slabo+13px&display=swap');
+body {
+background-image: url(./federico-respini-sYffw0LNr7s-unsplash.jpg);  
+background-size: cover;
+}
+h1 { 
+     font-family: "Indie Flower", cursive;
+  color: white;
+   font-size: 60px; 
+margin-left: 250px;
+}
+h2 {
+      font-family: "Slabo 13px", serif;
+      color: white;
+ margin-left: 250px;
+}
+p {
+background-color: rgba(38, 89, 118, 0.331);
+width: 800px;
+padding: 100px;
+border-radius: 20px;
+
+
+
+
+
+}
+a {}
