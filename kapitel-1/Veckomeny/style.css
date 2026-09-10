@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova:ital,wght@0,400;0,700;1,400&family=Expletus+Sans:ital,wght@0,400..700;1,400..700&display=swap');
+
+body {}
+table {
+    background-color: #8c111172;
+}
+caption {background-color: #b2b0d4;
+font-size: 40px;
+padding: 20px;
+ font-family: "Expletus Sans", sans-serif;
+ background-image: url(./bilder/meg-Qk9P5enO8T4-unsplash.jpg);
+}
+tr {}
+th {
+    font-size: 20px;
+      font-family: "Bona Nova", serif;
+}
+td {
+    padding: 20px;
+      font-family: "Bona Nova", serif;
+}
+img {
+    width: 250px;;
+}
