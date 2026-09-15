@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Jim+Nightshade&display=swap');
+body{
+
+    background-image: url(./Bilder/denys-nevozhai-guNIjIuUcgY-unsplash.jpg);
+background-size: cover;
+
+}
+h1 {
+    text-shadow: 5px 5px 0 rgb(214,101,101);
+    color:rgb(21, 27, 30)
+       font-family: "Jim Nightshade", cursive;
+       font-size:100px;
+
+
+margin-left: 300px ;
+
+
+}
+h2 {
+    margin-left: 300px;
+    text-shadow: 5px 5px 0 rgb(214,101,101);
+   font-size: 50px;
+    color: rgb(6, 6, 6)
+    
+    
+}
+p {
+    
+    margin-top: 300px;
+    margin-left: 900px;
+}
+a {
+     color: rgb(114, 56, 135)
+    font-family:sans-serif 
+    font-weight: bold;
+    text-decoration: none;
+    background-color: rgb(30,101,200);
+    margin-left: 300px;
+    padding: 10px 50px 10px 50px; 
+    border-radius: 5px; 
+}
