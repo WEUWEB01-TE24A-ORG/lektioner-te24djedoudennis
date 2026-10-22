@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Estonia&family=Protest+Revolution&display=swap');
+/* Enkel CSS-reset */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body, h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+:root {--night-bordeaux: #590d22ff;
+--dark-amaranth: #800f2fff;
+--cherry-rose: #a4133cff;
+--rosewood: #c9184aff;
+--bubblegum-pink: #ff4d6dff;
+--bubblegum-pink-2: #ff758fff;
+--cotton-candy: #ff8fa3ff;
+--cherry-blossom: #ffb3c1ff;
+--pastel-pink: #ffccd5ff;
+--lavender-blush: #fff0f3ff;
+}
+
+/* Sidans utseende */
+body {}
+div.sida {background-color: var(--rosewood);
+width: 900px;
+margin-left: auto;
+margin-right: auto;
+padding: 60px
+}
+
+/* Innehållets utseende */
+h1 { font-family: "Estonia", cursive;
+font-size: 80px;
+color: var(--cherry-blossom);
+text-align: center;
+margin-bottom: 40px;
+text-shadow: 2px 2px 1px #fff;
+text-transform: uppercase;
+}
+div.inlagg {background-color: var(--bubblegum-pink);
+padding: 50px;
+margin-bottom: 30px;
+ font-family: "Protest Revolution", sans-serif;
+ font-size: 30px;
+ border-radius: 10px;
+box-shadow: 2px 2px 10px black;
+
+}
+img {width: 100%;
+    border: 2px solid #ffccd5ff;
+    border-radius: 10px;
+}
+h2 {}
+p.datum {}
+p {}
