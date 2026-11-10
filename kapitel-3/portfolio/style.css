@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Felipa&family=Lobster&display=swap');
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body, h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0;
+    padding: 0;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+:root {
+--ink-black: #0d1321ff;
+--deep-space-blue: #1d2d44ff;
+--blue-slate: #3e5c76ff;
+--dusty-denim: #748cabff;
+--eggshell: #f0ebd8ff;
+}
+
+div.kontainer {
+font-family: "Felipa", serif;
+width: 800px;
+background-color: var(--ink-black);
+color: var(--blue-slate);
+margin-left:auto;
+margin-right: auto;
+padding: 50px;
+
+}
+
+h1 {
+font-family: "Lobster", sans-serif;
+margin-left: 250px;
+margin-bottom: 10px;
+padding: 10px;
+}
+
+p.intro {}
+
+div.box {
+background-color:var(--dusty-denim)
+;padding: 50px;
+margin-bottom: 30px;
+display: flex;
+gap: 30px;}
+
+.right {
+flex-direction: row-reverse;
+}
+
+img {width: 50%;}
+p.bildtext {}
